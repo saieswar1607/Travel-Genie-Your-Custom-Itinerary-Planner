@@ -1,4 +1,4 @@
-# Travel-Genie-Your-Custom-Itinerary-Planner
+# Travel Genie: Your Custom Itinerary Planner
 ## Aim
 To develop an intelligent, user-centric system that leverages Artificial Intelligence and Natural Language Processing to simplify and personalize travel planning by providing tailored recommendations, dynamic itineraries, and real-time updates, ensuring a seamless and enhanced travel experience.
 
